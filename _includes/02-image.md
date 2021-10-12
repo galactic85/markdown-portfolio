@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![GitHub Logo](https://www.codetech.it/wp-content/uploads/2021/01/github.png)
